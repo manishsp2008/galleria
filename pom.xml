@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.myplanet.galleria</groupId>
+  <artifactId>galleria</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+  <name>galleria</name>
+  <modules>
+    <module>galleria-ear</module>
+    <module>galleria-jsf</module>
+    <module>galleria-ejb</module>
+  </modules>
+</project>
